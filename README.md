@@ -15,7 +15,7 @@
 
 
 ![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
-![Profile Views](https://komarev.com/ghpvc/?username=Mihir5400)
+![Profile Views](https://komarev.com/ghpvc/?username=MadMihir)
 
 <br>
 
@@ -31,15 +31,15 @@ Hi, i'm Mihir Panchal,I am interested to work as a solution provider for Compute
 
 <p>
 <p align="center">
-<img width="800" src="https://activity-graph.herokuapp.com/graph?username=Mihir5400&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+<img width="800" src="https://activity-graph.herokuapp.com/graph?username=MadMihir&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
 <br>
 
-<img width="800" src="https://github-profile-trophy.vercel.app/?username=Mihir5400&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=MadMihir&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
 <br>
   <a href="https://MihirPanchal.github.io/">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Mihir5400&show_icons=true&theme=tokyonight" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mihir5400&theme=tokyonight" />
-   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir5400&theme=dark&layout=compact" /> 
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=MadMihir&show_icons=true&theme=tokyonight" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MadMihir&theme=tokyonight" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadMihir&theme=dark&layout=compact" /> 
   </a>
 </p>
 </a>
